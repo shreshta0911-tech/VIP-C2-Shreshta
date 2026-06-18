@@ -1,8 +1,0 @@
-{
-  "name": "NexCart",
-  "description": "An effortless online shopping platform featuring a comprehensive catalog, secure checkout, and a robust admin dashboard for analytics and order management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
